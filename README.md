@@ -38,9 +38,7 @@ i need these 2:
 
 2. https://www.pdfdrive.com/javascript-the-good-parts-bdcampbellnet-e17344700.html
 
-
-es6 specs (i finally found the pdf) also called ecma 262 baby...
-
-https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
+Here is a list of all the ecma standards, this took me a while to come across:
+gold *********** https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm
 
 
