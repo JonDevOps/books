@@ -22,3 +22,25 @@ https://github.com/JonDevOps/devdocs
 
 https://github.com/visionmedia/masteringnode
 
+https://www.pdfdrive.com/learning-javascript-design-patterns-e14781646.html
+
+https://www.pdfdrive.com/speaking-javascript-e34382580.html
+
+https://books.goalkicker.com/JavaScriptBook/
+
+https://jstherightway.org/
+
+http://www.myedocs.com/onlinefiles/ebooks/Professional%20JavaScript%20for%20Web%20Developers,%203rd%20Edition.pdf
+
+
+i need these 2:
+1. https://www.pdfdrive.com/javascript-the-definitive-guide-6thpdf-e7628373.html 
+
+2. https://www.pdfdrive.com/javascript-the-good-parts-bdcampbellnet-e17344700.html
+
+
+
+
+
+
+
