@@ -32,6 +32,8 @@ https://jstherightway.org/
 
 http://www.myedocs.com/onlinefiles/ebooks/Professional%20JavaScript%20for%20Web%20Developers,%203rd%20Edition.pdf
 
+https://github.com/vhf/free-programming-books
+
 
 i need these 2:
 1. https://www.pdfdrive.com/javascript-the-definitive-guide-6thpdf-e7628373.html 
