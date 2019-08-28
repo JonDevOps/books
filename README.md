@@ -22,9 +22,9 @@ https://github.com/JonDevOps/devdocs
 
 https://github.com/visionmedia/masteringnode
 
-https://www.pdfdrive.com/learning-javascript-design-patterns-e14781646.html
+fire   https://www.pdfdrive.com/learning-javascript-design-patterns-e14781646.html
 
-https://www.pdfdrive.com/speaking-javascript-e34382580.html
+fire   https://www.pdfdrive.com/speaking-javascript-e34382580.html
 
 https://books.goalkicker.com/JavaScriptBook/
 
@@ -39,8 +39,8 @@ i need these 2:
 2. https://www.pdfdrive.com/javascript-the-good-parts-bdcampbellnet-e17344700.html
 
 
+es6 specs (i finally found the pdf) also called exma 262 baby...
 
-
-
+https://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
 
 
