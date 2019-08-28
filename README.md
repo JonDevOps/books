@@ -38,9 +38,11 @@ i need these 2:
 
 2. https://www.pdfdrive.com/javascript-the-good-parts-bdcampbellnet-e17344700.html
 
-Here is a list of all the ecma standards, this took me a while to come across:
 
-****** GOLD *********** 
+-- Here is a list of all the ecma standards, this took me a while to come across:
+
+****** GOLD ******
+
 https://www.ecma-international.org/publications/standards/Ecma-262-arch.htm
 
 
